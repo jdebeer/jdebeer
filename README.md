@@ -2,8 +2,8 @@
 
 You've opened my code drawer.
 
-- 🚀 &nbsp; I work as a Founder, Software Engineer, Solutions Architect, Engineering Manager, and Product Manager
-- 👷‍♂️ &nbsp; Right now, I’m workign on [EntityBox](https://entitybox.com)—graphs, LLMs, big data, and a reimagined OS
+- 🚀 &nbsp; I work as a Founder, Software Engineer, and Solutions Architect
+- 👷‍♂️ &nbsp; Right now, I’m working on [EntityBox](https://entitybox.com)—graphs, LLMs, big data, and a reimagined operating system
 - 🗒 &nbsp; I write about my journey at [ajdebeer.com](https://ajdebeer.com)
 - 🔧 &nbsp; I usually wield JavaScript/TypeScript, PostgreSQL, React, Next.js, and Node.js (plus Python for sneaky scripts). Past flings include PHP, C++, C, and Ruby/RoR, but they’re mostly retired.
 
